@@ -138,10 +138,10 @@ Device:
 
 ## 関連記事
 
-しゃちらぼブログで、この基板の作成と動作確認について書いています。
+しゃちらぼブログのGreaseweazle関連記事は、以下のカテゴリにまとめています。
 
-* Greaseweazle互換基板を作る！ファームを書いて3.5インチFDを読んでみた  
-  https://blog.shachi-lab.com/064_greaseweazle_firmware_fdd_read/
+- Greaseweazle - しゃちらぼブログ  
+  https://blog.shachi-lab.com/category/microcontroller/greaseweazle/
 
 ---
 

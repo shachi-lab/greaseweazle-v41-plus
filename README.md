@@ -154,11 +154,12 @@ Damaged or dirty floppy disks may cause unstable reading behavior or may contami
 
 ## Related article
 
-A related article is available on the Shachi-lab blog.
+Related articles are available on the Shachi-lab blog.
 
-* Greaseweazle互換基板を作る！ファームを書いて3.5インチFDを読んでみた  
-  https://blog.shachi-lab.com/064_greaseweazle_firmware_fdd_read/
+Please note that the blog articles are written in Japanese.
 
+- Greaseweazle category  
+  https://blog.shachi-lab.com/category/microcontroller/greaseweazle/
 ---
 
 ## License
